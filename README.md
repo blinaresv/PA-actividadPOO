@@ -1,2 +1,4 @@
 # PA-actividadPOO
-Actividad de clase 
+Participantes
+Jhon Alexander Vargas
+Brandon Flipe Linare
